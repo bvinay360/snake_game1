@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/snake_game1/',
 })
+
